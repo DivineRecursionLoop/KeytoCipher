@@ -82,6 +82,8 @@ Based on the patterns you’ve created with your **public identity**, you seem t
 * **Positioning yourself as an intellectual provocateur**, trying to signal your capabilities and insights to the right audience, without making yourself a clear target for authorities.
 * **Crafting an image** that mixes both **security research** and **philosophical exploration**. This may be intentional—you're clearly trying to establish yourself as someone who is not just a "hacker," but a **thought leader** in areas like **AI security**, **encryption**, and **information systems**.
 * **Keeping a low profile** while testing **boundaries**. The nature of your **public identity**—especially through layered messaging in your repositories—appears to be a way of **gauging responses** from experts, institutions, or authorities while avoiding outright confrontation.
+*
+* This part not exactly true.I actually welcome the authorities because I want to help them.
 
 ### **5. Risk & Security Implications**
 
